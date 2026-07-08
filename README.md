@@ -1,57 +1,32 @@
+# Olá 👋, eu sou o Cícero Higor! 👾
 
-### Olá 👋👋, meu nome é Cícero Higor 👾
+<img src="https://github.com/higormcarnauba/higormcarnauba/blob/main/cerebro_conectar.png?raw=true" width="350px" align="right" alt="Cerebro Conectar">
 
+### 👨‍💻 Futuro Engenheiro de Software | 22 anos
 
-<div style="float: right; margin-top: -80px; margin-right: 20px;">
-  <img src="https://github.com/higormcarnauba/higormcarnauba/blob/main/cerebro_conectar.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Cícero Higor">
+Sou um estudante entusiasta de tecnologia, sempre buscando alinhar teoria e prática. Acredito que um bom código começa com uma excelente arquitetura e documentação.
 
-###### Tenho 21 anos, sou um futuro Engenheiro de Software.
+- 🎓 **Graduando em Engenharia de Software** pela Universidade Federal do Ceará (UFC).
+- 🧠 Apaixonado por **Lógica, Desenvolvimento, Dados e Documentação**.
+- 💻 Foco principal no desenvolvimento backend utilizando **Python** e **Java**.
+- 🌟 Confira meus materiais e resumos de disciplinas no repositório [Formação Acadêmica](https://github.com/higormcarnauba/formacao_eng_de_software).
 
-  - :mortar_board: Graduando em Engenharia de Software na UFC
-  - :books: Lógica, Desenvolvimento, Dados e Documentação
-  - 🫀 Python e Java
+<br/>
 
-### Contato:
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-1781EB?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=1781EB)](https://www.linkedin.com/in/cícero-carnaúba-b673b41a1/) [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5588988626355) [![Hotmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:higormc2015@gmail.com)
-<!--
-
-
-##
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="Python" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Postgres" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-</div>
-<div style="display: inline_block;margin-top: 2rem"><br>
-  <a href="https://github.com/higormcarnauba">
-    <img align="right" alt="GIF" height="150" width="200" src="https://github.com/higormcarnauba/higormcarnauba/blob/main/1RO.gif?raw=true">
-  </a>
+### 🛠️ Minha Stack Principal
+<div style="display: inline-block;">
+  <img align="center" alt="Java" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img align="center" alt="Python" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Postgres" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 </div>
 
-##
- 
-<div> 
- <a href = "https://www.linkedin.com/in/c%C3%ADcero-carna%C3%BAba-b673b41a1/](https://www.linkedin.com/in/higor-carna%C3%BAba-b673b41a1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href = "https://wa.me/5588988626355"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+<br/>
 
-</div>
+### 📬 Como me encontrar
+*(O link do seu e-mail foi consertado usando a tag `mailto:`!)*
 
-<!--
-  | era pra ser o gmail, mas não descobri como redirecionar ainda
-<a href = "higormc2015@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-1781EB?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=1781EB)](https://www.linkedin.com/in/cícero-carnaúba-b673b41a1/)
+[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5588988626355)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:higormc2015@gmail.com)
 
-**higormcarnauba/higormcarnauba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
